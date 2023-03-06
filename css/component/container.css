@@ -1,0 +1,16 @@
+.container {
+  width: 800px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+}
+
+.first-container,
+.second-container {
+  color: #808000;
+}
+
+.third-container,
+.link-text {
+  color: #6a8518;
+}

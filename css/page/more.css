@@ -1,0 +1,22 @@
+ul {
+  margin-left: -20px;
+}
+
+li {
+  list-style-type: "📍";
+}
+
+.mbti-btn {
+  background-color: #eee6c4;
+  color: #eee6c4;
+  width: 120px;
+  height: 40px;
+  border: none;
+  font-family: "Shantell Sans", cursive;
+}
+
+.mbti-btn:hover {
+  color: #6a8518;
+  font-size: 30px;
+  cursor: pointer;
+}

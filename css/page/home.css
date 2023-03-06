@@ -1,0 +1,30 @@
+.internet-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+}
+
+.internet-img:hover {
+  transition: all 0.3s ease-in-out;
+  transform: scale(1.2);
+}
+
+.internet-img-box {
+  margin-right: 20px;
+}
+
+.link-text {
+  margin-bottom: 10px;
+}
+
+p {
+  line-height: 0.5em;
+}
+
+h1 {
+  margin-bottom: -0.1em;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
